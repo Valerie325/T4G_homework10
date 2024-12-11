@@ -1,0 +1,30 @@
+.imagecontainer{
+    display: none;
+}
+
+.con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+}
+
+.line1{
+    width: 2px;
+    height: 100%;
+    background-color: #e9ecef;
+}
+
+.line2{
+    width: 2px;
+    height: 100%;
+    background-color: #4088d0;
+
+}
+
+.line3{
+    width: 2px;
+    height: 100%;
+    background-color: #9823dc;
+}
